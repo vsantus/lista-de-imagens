@@ -1,0 +1,64 @@
+.container{
+  
+    display: flex;
+    gap: 20px ;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+
+}
+
+.imagem1{
+    background-image: url('/src/imagens/rome.png');
+    width: 335px;
+    height: 432px;
+}
+
+.imagem2{
+    background-image: url('/src/imagens/boat.png');
+    width: 335px;
+    height: 432px;
+}
+
+.imagem3{
+    background-image: url('/src/imagens/sand-and-sea.png');
+    width: 336px;
+    height: 432px;
+}
+
+.imagem4{
+    background-image: url('/src/imagens/starry-night.png');
+    width: 336px;
+    height: 432px;
+}
+
+h2 {
+    color: #FFF;
+    font-family: Public Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+p {
+    color: #FFF;
+    font-family: Public Sans;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    
+}
+
+.infos{
+    padding-left: 19px;
+    height: 100%;
+    width:  180px;
+    margin-top: 330px;
+    
+}
